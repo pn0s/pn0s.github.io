@@ -1,0 +1,22 @@
+body{
+    max-width: 950px;
+    margin: auto;
+    background: #171717;
+    color: #ebebeb;
+    padding: 10px;
+}
+.dark-modeb{
+    background: #ebebeb;
+    color: #171717;
+}
+h1{
+    text-align: center;
+}
+.imagens {
+    max-width: 100%;
+    height: auto;
+}
+a:link,a:visited,a:hover,a:active {
+    color: #bfbfbf;
+    text-decoration: none;
+}
